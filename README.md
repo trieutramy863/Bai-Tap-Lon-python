@@ -18,5 +18,5 @@ Viết module đọc file theo cấu trúc open_file(), next_block().
 Class GUI với tkinter; Frame cho câu hỏi, Entry và Button.
 Kết nối logic và giao diện, cập nhật câu hỏi & điểm.
 # Bài làm 
-#
+# 
 # https://youtu.be/r2hic4hXPJE?si=IUT-zee6j9K01n8a
